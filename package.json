@@ -1,0 +1,9 @@
+{
+  "name": "erx-teatime",
+  "version": "1.0.0",
+  "author": "newsrw <s.phusomboon@gmail.com>",
+  "private": false,
+  "dependencies": {
+    "teatime-erx": "^1.0.2"
+  }
+}
